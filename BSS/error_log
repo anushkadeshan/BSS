@@ -1,0 +1,42 @@
+[20-Jun-2017 09:44:33 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/becsyste/public_html/BSS/application/views/Reports/single_student.php on line 100
+[11-Aug-2017 07:04:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/becsyste/public_html/BSS/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[27-Nov-2017 06:37:37 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:37:46 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:37:50 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:38:01 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:38:07 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:38:18 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:38:28 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:38:35 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:38:35 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:38:37 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:38:39 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:38:40 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:38:50 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:39:06 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:39:30 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:40:21 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:40:23 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:40:59 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:40:59 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:41:01 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:41:01 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:41:01 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:41:02 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:41:02 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:41:03 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:41:03 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:41:03 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:41:04 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:41:04 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:41:04 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:41:05 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[27-Nov-2017 06:41:28 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/becsyste/public_html/BSS/application/controllers/Update_Progress_Controller.php on line 354
+[19-Feb-2018 08:25:38 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/becsyste/public_html/BSS/application/controllers/Dashboard_Controller.php on line 57
+[19-Feb-2018 08:28:49 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/becsyste/public_html/BSS/application/controllers/Dashboard_Controller.php on line 57
+[19-Feb-2018 08:33:07 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/becsyste/public_html/BSS/application/controllers/Dashboard_Controller.php on line 57
+[19-Feb-2018 09:16:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/becsyste/public_html/BSS/application/views/Progress/Update_student_1.php on line 243
+[19-Feb-2018 09:17:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/becsyste/public_html/BSS/application/views/Progress/Update_student_1.php on line 243
+[19-Feb-2018 10:42:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/becsyste/public_html/BSS/application/views/dashboard.php on line 645
+[26-Feb-2018 06:33:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/becsyste/public_html/BSS/application/views/Progress/Update_student_4.php on line 216
+[26-Feb-2018 06:34:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/becsyste/public_html/BSS/application/views/Progress/Update_student_4.php on line 70
